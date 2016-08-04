@@ -1,5 +1,10 @@
 #ifndef ISORT_H
 #define ISORT_H
+
+/*
+插入排序
+自行添加头文件
+*/
 void isort(vector<int> &v,int low,int high){
   //检查
   if(low >= high){
