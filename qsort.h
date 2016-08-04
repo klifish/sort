@@ -3,14 +3,14 @@
 //快速排序
 //自行添加头文件
 /*
-对vi中[low,high]范围内元素排序
+*对vi中[low,high]范围内元素排序
 */
 void Qsort(vector<int> &vi, int low, int high){
 	if (low > high){  //范围检查
 		return;
 	}
 
-  //两个工作指针
+  	//两个工作指针
 	int first = low;
 	int last = high;
 	
