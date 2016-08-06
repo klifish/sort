@@ -1,6 +1,5 @@
 #ifndef ISORT_H
 #define ISORT_H
-
 /*
 插入排序
 自行添加头文件
