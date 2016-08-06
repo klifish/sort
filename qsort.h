@@ -2,6 +2,7 @@
 #define QSORT_H
 //快速排序
 //自行添加头文件
+
 /*
 *对vi中[low,high]范围内元素排序
 */
