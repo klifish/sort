@@ -1,7 +1,6 @@
 /*
 冒泡排序
 */
-
 #ifndef BSORT_H
 #define BSORT_H
 template<typename T>
