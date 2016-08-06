@@ -1,7 +1,6 @@
 /*
 希尔（shell）排序
 */
-
 #ifndef SSORT_H
 #define SSORT_H
 #include"isort.h"
